@@ -1,4 +1,4 @@
-# 📈 Simulador de Finanças e Investimentos (Tesouro Selic) em Java
+#  Simulador de Finanças e Investimentos (Tesouro Selic) em Java
 
 Aplicação em **Java** desenvolvida para simular a evolução de rendimentos de um investimento em renda fixa (Tesouro Selic), considerando saldo inicial, aportes mensais recorrentes e acompanhamento de meta financeira via terminal.
 
